@@ -10,13 +10,13 @@ My name is Aleksandr Kharchenko, and I am backend developer. I enjoy writing cod
 ### Languages
 [![Golang](https://img.shields.io/badge/golang-black?style=for-the-badge&logo=go)](https://go.dev/)
 [![NodeJS](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://nodejs.org/en)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.python.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://www.php.net/)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 
 ### Databases
 [![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://www.mysql.com/)
-[![Postgres](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://www.mysql.com/)
+[![Postgres](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 
 ### Frameworks & Technologies
