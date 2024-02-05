@@ -1,6 +1,6 @@
 <h1>Hello world!👋</h1>
 <p>
-My name is Aleksandr Kharchenko, and I am backend developer. I enjoy writing code and solving complex problems. I am result-oriented, patient and stress-resistant. I also read technical literature, various posts and other materials for self-development, follow best coding practices(include GRASP, SOLID, DRY, KISS, YAGNI).
+My name is Oleksandr Kharchenko, and I am backend developer. I enjoy writing code and solving complex problems. I am result-oriented, patient and stress-resistant. I also read technical literature, various posts and other materials for self-development, follow best coding practices(include GRASP, SOLID, DRY, KISS, YAGNI).
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/jarviis101/)
 [![Linkedin](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=blue)](mailto:jarviis101@gmail.com)
